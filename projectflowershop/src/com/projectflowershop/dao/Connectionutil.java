@@ -1,4 +1,4 @@
-package com.bloom.model;
+package com.projectflowershop.dao;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
